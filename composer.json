@@ -1,0 +1,17 @@
+{
+    "name": "morrisrobinson/inspire",
+    "description": "chuck norris inspirational quotes",
+    "autoload": {
+        "psr-4": {
+            "Morrisrobinson\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Robin Morrison"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
