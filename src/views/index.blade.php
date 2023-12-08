@@ -11,7 +11,7 @@
 
 <body>
     <div class="container" style="text-align:center;">
-        <img src="vendor/img/chucknorris.png">
+        <img src="img/chucknorris.png">
         <h1>{{ $quote }}</h1>
     </div>
 </body>

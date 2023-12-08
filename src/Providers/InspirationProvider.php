@@ -13,7 +13,7 @@ class InspirationProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->publishes([__DIR__.'/../assets/' => public_path('vendor/img/'),], 'public');
+        $this->publishes([__DIR__.'/../assets/' => public_path('img/'),], 'public');
         $this->loadRoutesFrom(__DIR__.'/../routes/web.php');
         $this->loadViewsFrom(__DIR__.'/../views', 'inspire');
     }
