@@ -1,0 +1,2 @@
+# inspiration
+laravel package test
