@@ -1,2 +1,3 @@
 # inspiration
-laravel package test
+laravel package build and test
+
